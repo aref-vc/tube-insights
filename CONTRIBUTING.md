@@ -27,7 +27,7 @@ Pull requests are the best way to propose changes to the codebase. We actively w
 
 1. **Fork and Clone**
    ```bash
-   git clone https://github.com/yourusername/tube-insights.git
+   git clone https://github.com/aref-vc/tube-insights.git
    cd tube-insights
    ```
 
@@ -91,7 +91,7 @@ feat: add video thumbnail preview in search results
 
 ## Issue Reporting
 
-We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/yourusername/tube-insights/issues).
+We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/aref-vc/tube-insights/issues).
 
 **Great Bug Reports** tend to have:
 
@@ -136,8 +136,8 @@ Project maintainers are responsible for clarifying the standards of acceptable b
 ## Getting Help
 
 - 📧 Email: [your-email@domain.com](mailto:your-email@domain.com)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/tube-insights/discussions)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/tube-insights/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/aref-vc/tube-insights/discussions)
+- 🐛 Issues: [GitHub Issues](https://github.com/aref-vc/tube-insights/issues)
 
 ## License
 

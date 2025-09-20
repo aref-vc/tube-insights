@@ -1,6 +1,6 @@
 # 🎬 Tube Insights
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/yourusername/tube-insights)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/aref-vc/tube-insights)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Next.js](https://img.shields.io/badge/Next.js-15-black.svg)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue.svg)](https://www.typescriptlang.org/)
@@ -47,7 +47,7 @@ Tube Insights helps content creators make data-driven decisions by analyzing You
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/tube-insights.git
+   git clone https://github.com/aref-vc/tube-insights.git
    cd tube-insights
    ```
 
@@ -232,8 +232,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - 📧 Email: [your-email@domain.com](mailto:your-email@domain.com)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/tube-insights/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/tube-insights/discussions)
+- 🐛 Issues: [GitHub Issues](https://github.com/aref-vc/tube-insights/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/aref-vc/tube-insights/discussions)
 
 ---
 
